@@ -91,6 +91,7 @@ dependencies{
 
 ## Usage
 
+## Kotlin
 ```kt
 
 
@@ -115,6 +116,7 @@ class MainActivity : AppActivityCompact {
 }
 ```
 
+## Java
 ```java
 class MainActivity extends AppActivityCompact {
     @override
