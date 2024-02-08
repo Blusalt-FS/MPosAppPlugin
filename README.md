@@ -48,9 +48,11 @@ allprojects {
     }
 }
 
+```
 
-## Step 2: build.gradle (app)
-All the following to build.gradle
+
+## Step 3: build.gradle (app)
+All the following to build.gradle (app level)
 
 ```sh
 
