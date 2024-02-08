@@ -38,7 +38,7 @@ allprojects {
         }
         maven {
           name "GitHubPackages"
-          url 'https://maven.pkg.github.com/Blusalt-FS/PosAppPlugin'
+          url 'https://maven.pkg.github.com/Blusalt-FS/MPosAppPlugin'
 
           credentials {
             username githubProperties['USERNAME_GITHUB']
